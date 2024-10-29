@@ -101,7 +101,7 @@ const Home = () => {
 
             <div id="menu-btn" className="fas fa-bars"></div>
 
-            <NavLink className="logo" to="/"> Bike<span>Book</span></NavLink>
+            <NavLink className="logo" to="/"> Bike<span>Hub</span></NavLink>
         
             
 
@@ -174,7 +174,7 @@ const Home = () => {
 
     <div className="box">
         <div className="rev-img">
-            <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/312703748_3478501779085230_1950780946585482384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGkwHPUk95MDAfygYTyGWU7X3HO7w5t9apfcc7vDm31qpmla904Bn5UkCZ7ObAXeE6s97HwrxX59lb7HBl528sV&_nc_ohc=9c5en2xXM18AX-BdD7P&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAzZsPJ2adgBqspzwz4T8kHfHPcm6E07csvy1wh1YMN-A&oe=63B51CB5" alt="" />
+            <img src="/image/rev1.jpeg" alt="" />
         </div>
         <h3>Sourabh Samal</h3>
         <p>Excelent servuce.</p>
@@ -182,7 +182,7 @@ const Home = () => {
 
     <div className="box">
     <div className="rev-img">
-            <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/302145899_156532100373085_2010151763920459654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHrbcdLZRWuaHsXyYUqG_jpdhVNC4mwOVF2FU0LibA5UT8iradxAwDYoNQF4d_Zqs77lKP1RnqwDQ1gm3jJy1wC&_nc_ohc=4iFR4J4vO6MAX87zxFw&tn=hr3FB-mU0E1Jjxz3&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAZfiNQl5VvdFFbumJkgwpxKH1VD595Nrna4L9g10pnoA&oe=63B40E67" alt="" />
+            <img src="/image/jaga.jpg" alt="" />
         </div>
         <h3>Jagannatha Mishra</h3>
         <p>Bohot khub. I liked the service.</p>
@@ -191,7 +191,7 @@ const Home = () => {
 
     <div className="box">
     <div className="rev-img">
-            <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/314706916_1532727437148345_5356733734063348288_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGi-Fe-pxZvDOWFXu32V4tIyyC-tKKPgdHLIL60oo-B0Y4ywceIpFaJENe1ExTPOaLyzEPhnSs8fZXHFPDZJxy-&_nc_ohc=Q8a2pz_MnqoAX9hf_B4&_nc_ht=scontent.fdac136-1.fna&oh=00_AfA5j5ghvAIVLgdwNYNYvmYOqkk_07CFFrWeyXtKF0_w7A&oe=63B41F9C" alt="" />
+            <img src="/image/Deechu.jpg" alt="" />
         </div>
         <h3>Deekshith Kumar S</h3>
         <p>Liked the verity of bikes.</p>
