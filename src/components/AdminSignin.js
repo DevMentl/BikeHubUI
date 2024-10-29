@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react'
-import { NavLink, useHistory } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 
 import { AdminContext } from "../App"
 
@@ -8,7 +8,7 @@ const AdminSignin = () => {
 
     const {adminstate, dispatchadmin} = useContext(AdminContext)
 
-    const adminHistory = useHistory();
+    const adminHistory = useNavigate();
     const [adminName, setAdminName] = useState('');
     const [adminPassword, setAdminPassword] = useState('');
 

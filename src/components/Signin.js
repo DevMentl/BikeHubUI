@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react'
-import { NavLink, useHistory } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 
 import { UserContext } from "../App"
 
@@ -10,7 +10,7 @@ const Signin = () => {
 
 
     //User signin
-    const history = useHistory();
+    const history = useNavigate();
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 

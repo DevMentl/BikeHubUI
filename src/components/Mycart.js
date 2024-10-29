@@ -1,6 +1,7 @@
 import React, {useState, useEffect, useContext} from 'react'
-import { NavLink, useHistory } from "react-router-dom";
-import Stripe from "react-stripe-checkout";
+import { NavLink, useNavigate } from "react-router-dom";
+//import Stripe from "react-stripe-checkout";
+import Stripe from '@stripe/react-stripe-js';
 
 import { UserContext } from "../App"
 

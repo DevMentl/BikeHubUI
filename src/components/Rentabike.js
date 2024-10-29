@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useContext} from 'react'
-import { NavLink, useHistory } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 
 import { UserContext } from "../App"
 
@@ -7,7 +7,7 @@ const Rentabike = () => {
 
     const {state, dispatch} = useContext(UserContext)
 
-    const history = useHistory(); 
+    const history = useNavigate(); 
 
     const [rentBikesData, setRentBikesData] = useState([]);
 

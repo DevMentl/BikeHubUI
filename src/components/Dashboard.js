@@ -1,6 +1,6 @@
 import React, {useEffect, useContext} from 'react';
 import "../dashboard.css";
-import {NavLink, useHistory} from "react-router-dom";
+import {NavLink, useNavigate} from "react-router-dom";
 
 import { AdminContext } from "../App"
 
@@ -8,7 +8,7 @@ const Dashboard = () => {
 
   const {adminState, dispatchadmin} = useContext(AdminContext)
 
-  const history = useHistory();
+  const history = useNavigate();
 
   const callDashboard =  async () =>{
       try {

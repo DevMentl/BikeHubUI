@@ -1,11 +1,11 @@
 import React, {useEffect, useContext} from 'react'
-import { NavLink, useHistory } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 
 import { UserContext } from "../App"
 
 const Signout = () => {
 
-    const history = useHistory();
+    const history = useNavigate();
 
     useEffect(()=>{
         fetch('/signout',{

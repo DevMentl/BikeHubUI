@@ -1,11 +1,11 @@
 import React, {useState} from 'react'
 import "../registerStyle.css"
-import { NavLink, useHistory } from 'react-router-dom'
+import { NavLink, useNavigate } from 'react-router-dom'
 
 
 const Signup = () => {
 
-    const history = useHistory();
+    const history = useNavigate();
     const [user, setUser] = useState({
         name : "",
         email : "",

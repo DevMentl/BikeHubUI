@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react'
-import {NavLink, useHistory} from "react-router-dom";
+import {NavLink, useNavigate} from "react-router-dom";
 
 import { AdminContext } from "../../App"
 
@@ -7,7 +7,7 @@ const Addbikes = () => {
 
   const {adminState, dispatchadmin} = useContext(AdminContext)
 
-    const history = useHistory();
+    const history = useNavigate();
     const [file, setFile] = useState();
     const [bike, setBike] = useState({
         brand : "",
