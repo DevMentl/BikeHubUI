@@ -135,15 +135,15 @@ const Home = () => {
 <div className="icons">
     <i className="fas fa-home"></i>
     <div className="content">
-        <h3>150+</h3>
-        <p>branches</p>
+        <h3>15+</h3>
+        <p>Branches</p>
     </div>
 </div>
 
 <div className="icons">
   <i class="fa-sharp fa-solid fa-person-biking"></i>
     <div className="content">
-        <h3>4770+</h3>
+        <h3>400+</h3>
         <p>Bikes Rented</p>
     </div>
 </div>
@@ -151,15 +151,15 @@ const Home = () => {
 <div className="icons">
     <i className="fas fa-users"></i>
     <div className="content">
-        <h3>320+</h3>
-        <p>happy clients</p>
+        <h3>600+</h3>
+        <p>Happy clients</p>
     </div>
 </div>
 
 <div className="icons">
 <i class="fa-sharp fa-solid fa-motorcycle"></i>
     <div className="content">
-        <h3>1500+</h3>
+        <h3>150+</h3>
         <p>Available Bikes</p>
     </div>
 </div>
@@ -176,16 +176,16 @@ const Home = () => {
         <div className="rev-img">
             <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/312703748_3478501779085230_1950780946585482384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGkwHPUk95MDAfygYTyGWU7X3HO7w5t9apfcc7vDm31qpmla904Bn5UkCZ7ObAXeE6s97HwrxX59lb7HBl528sV&_nc_ohc=9c5en2xXM18AX-BdD7P&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAzZsPJ2adgBqspzwz4T8kHfHPcm6E07csvy1wh1YMN-A&oe=63B51CB5" alt="" />
         </div>
-        <h3>Sabbir Hossain Abir</h3>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis voluptate repellat eos, expedita culpa laboriosam vel fuga dolore unde quisquam earum explicabo aliquid, ducimus ullam saepe. Tempore, esse est. Possimus.</p>
+        <h3>Sourabh Samal</h3>
+        <p>Excelent servuce.</p>
     </div>
 
     <div className="box">
     <div className="rev-img">
             <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/302145899_156532100373085_2010151763920459654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHrbcdLZRWuaHsXyYUqG_jpdhVNC4mwOVF2FU0LibA5UT8iradxAwDYoNQF4d_Zqs77lKP1RnqwDQ1gm3jJy1wC&_nc_ohc=4iFR4J4vO6MAX87zxFw&tn=hr3FB-mU0E1Jjxz3&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAZfiNQl5VvdFFbumJkgwpxKH1VD595Nrna4L9g10pnoA&oe=63B40E67" alt="" />
         </div>
-        <h3>Zakaria Bin Moti</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi modi quaerat accusantium consectetur eos soluta dolor quas nam quos veniam expedita architecto optio fugit possimus earum reiciendis rem, dicta nemo.</p>
+        <h3>Jagannatha Mishra</h3>
+        <p>Bohot khub. I liked the service.</p>
     </div>
 
 
@@ -193,8 +193,8 @@ const Home = () => {
     <div className="rev-img">
             <img src="https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/314706916_1532727437148345_5356733734063348288_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGi-Fe-pxZvDOWFXu32V4tIyyC-tKKPgdHLIL60oo-B0Y4ywceIpFaJENe1ExTPOaLyzEPhnSs8fZXHFPDZJxy-&_nc_ohc=Q8a2pz_MnqoAX9hf_B4&_nc_ht=scontent.fdac136-1.fna&oh=00_AfA5j5ghvAIVLgdwNYNYvmYOqkk_07CFFrWeyXtKF0_w7A&oe=63B41F9C" alt="" />
         </div>
-        <h3>Protick Saha</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia amet maiores magni commodi. Voluptatem aut aliquid mollitia sunt iusto sapiente numquam culpa illo recusandae sequi nam sed eaque, accusantium nesciunt!</p>
+        <h3>Deekshith Kumar S</h3>
+        <p>Liked the verity of bikes.</p>
     </div>
 
 </div>
@@ -230,11 +230,11 @@ const Home = () => {
 
     <div className="box">
         <h3>our branches</h3>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Mirpur </a>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Farmgate </a>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Badda </a>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Aftabnagar </a>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Uttara </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> Sarjapur </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> Kormangala </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> Kolar </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> BTM Layout </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> Marathahalli </a>
     </div>
 
     <div className="box">
@@ -249,10 +249,10 @@ const Home = () => {
 
     <div className="box">
         <h3>contact info</h3>
-        <a href="#"> <i className="fas fa-phone"></i> +123-456-7890 </a>
-        <a href="#"> <i className="fas fa-phone"></i> +111-222-3333 </a>
-        <a href="#"> <i className="fas fa-envelope"></i> bikebook@gmail.com </a>
-        <a href="#"> <i className="fas fa-map-marker-alt"></i> Aftabnagar, Badda, Dhaka </a>
+        <a href="#"> <i className="fas fa-phone"></i> +91-9187127382 </a>
+        <a href="#"> <i className="fas fa-phone"></i> +91-2222223613 </a>
+        <a href="#"> <i className="fas fa-envelope"></i> bikehub@gmail.com </a>
+        <a href="#"> <i className="fas fa-map-marker-alt"></i> Sarjapur, Bangalore, Karnataka </a>
     </div>
 
     <div className="box">
