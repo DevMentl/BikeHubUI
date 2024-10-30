@@ -111,7 +111,7 @@ const Mycart = () => {
         <>
             <header className="header">
                 <div id="menu-btn" className="fas fa-bars"></div>
-                <NavLink className="logo" to="/"> <span>Bike</span>Book </NavLink>
+                <NavLink className="logo" to="/"> <span>Bike</span>Hub </NavLink>
 
                 <nav className="navbar">
                 <NavLink  to="/">Home</NavLink>

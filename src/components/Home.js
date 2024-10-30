@@ -185,7 +185,7 @@ const Home = () => {
             <img src="/image/jaga.jpg" alt="" />
         </div>
         <h3>Jagannatha Mishra</h3>
-        <p>Bohot khub. I liked the service.</p>
+        <p>Behtareen.... I loved the service ❤️</p>
     </div>
 
 

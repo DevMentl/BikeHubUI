@@ -62,7 +62,7 @@ const Rentbikereports = () => {
             <div className="sidebar">
     <div className="logo-details">
       <i className=''></i>
-      <span className='logo_name1'>Bike</span><span className="logo_name">Book</span>
+      <span className='logo_name1'>Bike</span><span className="logo_name">Hub</span>
     </div>
       <ul className="nav-links">
         <li>
@@ -140,9 +140,9 @@ const Rentbikereports = () => {
                 <tr>
                   <td >{allsoldItems.brand}</td>
                   <td >{allsoldItems.model}</td>
-                  <td >{allsoldItems.retailPricePerItem} Taka</td>
+                  <td >{allsoldItems.retailPricePerItem} Rupees</td>
                   <td >{allsoldItems.bookedHours}</td>
-                  <td >{allsoldItems.totalIncome} Taka</td>
+                  <td >{allsoldItems.totalIncome} Rupees</td>
                 </tr> 
             </tbody>
          
